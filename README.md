@@ -1,2 +1,2 @@
-# slides
-slides
+# flashcards
+flashcards
