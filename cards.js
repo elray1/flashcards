@@ -26,4 +26,3 @@ $.getJSON( "hebrew.json", function(resp) {
 
 window.addEventListener('keydown', transitionCard);
 window.addEventListener('mouseup', transitionCard);
-window.addEventListener('touchend', transitionCard);
