@@ -1,0 +1,21 @@
+html {
+  font-size: 20px;
+}
+
+body,html {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#card-container {
+  margin-top: 50px;
+}
+
+#prompt {
+  padding: 20px;
+}
+
+#answer {
+  padding: 20px;
+}

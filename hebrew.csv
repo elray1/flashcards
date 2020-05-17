@@ -1,0 +1,132 @@
+﻿session,topic,prompt,answer
+1,misc,How do you say _____ in Hebrew?,Eich omrim _____ be Ivrit?
+1,introductions,My name is _____,Korim li _____
+1,introductions,I am _____,Ani _____
+1,pronouns,I,Ani
+1,pronouns,You (m),Ata
+1,pronouns,You (f),At
+1,pronouns,He,Hu
+1,pronouns,She,He
+1,pronouns,We,Anachnu
+1,pronouns,"You (m, pl)",Atem
+1,pronouns,"You (f, pl)",Aten
+1,pronouns,They (m),Hem
+1,pronouns,They (f),Hen
+1,explaining locations,Where,Eifo
+1,explaining locations,"Where are you? (m, f)",Eifo ata? (m); Eifo at? (f)
+1,explaining locations,I'm in _____,Ani be _____
+1,explaining locations,Where do you live?,Eifo ata gar? (m); Eifo at gara? (f)
+1,explaining locations,I live in Acton,Ani gar be Acton (m); Ani gara be Acton (f)
+1,explaining locations,Where are you from?,Me eifo Ata?; Me eifo At?
+1,explaining locations,I’m from Tel Aviv,Ani me Tel-Aviv
+1,misc,now,achshav
+1,misc,but,aval
+1,explaining locations,I’m at home,Ani ba bait
+1,locations,House / Home,bait
+1,locations,Kitchen,Mitbach
+1,locations,living room,salon
+1,locations,bedroom,cheder shena
+1,locations,street,rechov
+1,locations,office,misrad
+1,household items,computer,machshev
+1,locations,dining room,Cheder Ochel
+1,misc,everybody,Kulam
+1,misc,shower,Miklachat
+1,locations,kids' (bed)room,Cheder yeladim
+1,misc,what,ma
+1,misc,there is/exists,yesh
+1,household items,What’s in the room?,Ma yesh ba cheder?
+1,household items,There is a table in the room,Be cheder yesh shulchan
+1,household items,Chair,kise
+1,household items,sofa,sapa
+1,household items,fridge,mekarer
+1,household items,lamp,menora
+1,household items,oven,tanur
+1,household items,sink,kyor
+1,household items,bed,mita
+1,misc,music,muzika
+1,household items,desk,Shulchan Ktiva
+1,household items,"drawer, drawers","megera, megerot"
+1,household items,closet,aron
+1,misc,and,ve
+1,misc,there is not/doesn't exist,en
+1,how are you?,Hello,shalom
+1,how are you?,How are you? (what's up?),Ma nishma?
+1,how are you?,"How are you? (m, f; singular)",Ma shlomcha? (m); Ma shlomech? (f)
+1,how are you?,"How are you? (m, f; pl)","Ma shlomchem? (m, pl); Ma shlomchen? (f, pl)"
+1,how are you?,good,tov
+1,how are you?,very good,tov meod
+1,how are you?,ok,beseder
+1,how are you?,very good (totally ok),beseder gamur
+1,how are you?,so so,kacha kacha
+1,how are you?,what about you?,ma itcha? (m); ma itach? (f)
+1,people,"boy, child; girl",yeled (m); yalda (f)
+1,people,"boys, children; girls",yeladim (m); yeladot (f)
+1,people,"student (m, f)",talmid (m); talmida (f)
+1,people,"students (m, f)",talmidim(m); talmidot (f)
+1,people,family,mishpacha
+1,people,"friend (m, f)",chaver (m); chavera (f)
+1,people,mother,ima
+1,people,father,aba
+1,people,grandmother,savta
+1,people,grandfather,saba
+1,people,brother,ach
+1,misc,also,gam
+1,locations,beach,chof
+1,time,today,hayom
+1,time,day,yom
+1,people,sister,achot
+1,people,son,ben
+1,people,daughter,bat
+1,people,husband,baal
+1,people,wife,isha
+1,people,partner (m),ben-zug
+1,people,partner (f),bat-zug
+1,locations,north,tzafon
+1,locations,east,mizrach
+1,locations,south,darom
+1,locations,west,maarav
+1,animals,"cow, cows","para, parot"
+1,animals,"camel, camels","gamal, gmalim"
+1,animals,"bear, bears","dov, dubim"
+2,animals,"cat, cats","chatul, chatulim"
+2,misc,who,mi
+2,how are you?,hello to you,shalom lachem
+2,how are you?,it is very nice for me to meet up with you,nechmad li meod lifgosh otchem
+2,misc,to tell,lomar
+2,misc,to read,likro
+2,misc,to ask,lishol
+2,misc,to learn,lilmod
+2,misc,to be,lihiyot
+2,misc,to eat,leechol
+2,food,ice cream,glida
+2,misc,"I want (m, f)","ani rotze, ani rotza"
+2,misc,question,sheela
+2,misc,because,ki
+2,time,yet,od
+2,misc,yes,ken
+2,misc,no,lo
+2,food,wine,yayin
+2,food,drink (action),shote
+2,time,always,tamid
+2,time,sometimes,lifamim
+2,time,remain,nishar
+2,human condition,"happy (m, f)","sameach (m), smecha (f)"
+2,human condition,sad (m),atzuv
+2,human condition,"hungry (m, f)","raev (m), reeva (f)"
+2,human condition,full (m),savea
+2,human condition,remember (m),zocher (m)
+2,human condition,forget (m),Shocheach (m)
+2,human condition,anger (m),koes (m)
+2,human condition,"love (m, f)","ohev (m), ohevet (f)"
+2,human condition,big (m),gadol (m)
+2,human condition,"small (m, f)","katan (m), ktana (f)"
+2,human condition,brave (m),gibor (m)
+2,human condition,scared (m),pachdan (m)
+2,food,dinner,aruchat erev
+2,tenses and conjugation,"I am happy (m, f)","Ani sameach (m), ani smecha (f)"
+2,tenses and conjugation,"you are happy (m, f)","ata sameach (m), at smecha (f)"
+2,tenses and conjugation,"he/she is happy (m, f)","hu sameach (m), he smecha (f)"
+2,tenses and conjugation,"I was happy (m, f)","ani hayiti sameach (m), ani hayiti smecha (f)"
+2,tenses and conjugation,"you were happy (m, f)","ata hayita sameach (m), at hayit smecha (f)"
+2,tenses and conjugation,"he/she was happy (m, f)","hu haya sameach (m), he hayta smecha (f)"
